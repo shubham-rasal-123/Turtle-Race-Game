@@ -1,20 +1,21 @@
-# Turtle Race
-+ A randomly simulated turtle race! You can watch different colored turtles race across the screen and keep track of the wins/losses of each turtle.
-+ A Turtle Race game using the built-in turtle library in Python. You can also bet on the turtle you want to win.
-![image](https://user-images.githubusercontent.com/128680209/228202823-04c04a77-8ea0-47f8-860a-417ddd5064b2.png)
+# Turtle Race Game
 
-##  🛠 Description
-A simple turtle race game built in [python](https://www.python.org/downloads).
+## Screenshots
+
+![alt text](Screenshot1.png)
+
+![alt text](Screenshot2.png)
+
+
+This project is a Turtle Race Game created with [Python 3](https://www.python.org/downloads) using the Turtle graphics library. The game features multiple turtles in different colors racing across the screen, with each race having an unpredictable outcome due to random movement speeds. Players can place bets on which turtle will win, adding a fun interactive element. This project is great for learning Python basics, as well as concepts like loops, functions, and randomization with graphics.
 
 ##  ⚙️ Languages or Frameworks Used:
+
 + `pip install turtle`
 + `import random`
 
 ## 🌟 How to run:
-+ Running the script is simple! Just open a terminal in the folder where your script is located and run the following command:
-```
-python turtle_race.py
-```
 
-## 📺 Demo:
-![Python-turtle-race](https://user-images.githubusercontent.com/128680209/228207528-248f0689-4a8d-4d46-a7a5-5829ac63f403.gif)
++ Running the script is simple! Just open a terminal in the folder where your script is located and run the following command:
+
++ `python turtle_race.py`
